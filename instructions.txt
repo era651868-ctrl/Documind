@@ -1,0 +1,20 @@
+# DocuMind AI Setup Instructions
+
+1. Prerequisites:
+   - Python 3.9 or higher installed.
+   - A Google Cloud Project ID.
+
+2. Setup:
+   - Open your terminal or command prompt.
+   - Navigate to this folder.
+   - Install dependencies:
+     pip install -r requirements.txt
+
+3. Running the App:
+   - Run the following command:
+     streamlit run app.py
+   - The app will open in your browser automatically.
+
+4. Usage:
+   - Enter your Google Cloud Project ID in the sidebar.
+   - Paste your code, select the language, and click "Analyze".
